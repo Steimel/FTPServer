@@ -1,4 +1,4 @@
 FTPSever
 ========
 
-Basic C++ FTP server
+C++ FTP server
